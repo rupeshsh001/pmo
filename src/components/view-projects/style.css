@@ -1,0 +1,43 @@
+.heading_list {
+  background-color: rgb(227, 231, 231);
+}
+body {
+  margin: 1rem;
+}
+
+.container {
+  border: 1px solid;
+  margin: 0 0.5rem;
+}
+.createprojectLink {
+  text-decoration: none;
+  background-color: orange;
+  float: right;
+  margin-right: 5rem;
+  padding: 0.2rem 1rem;
+  border-radius: 0.2rem;
+  color: white;
+}
+.editlink:hover {
+  color: rgb(255, 102, 0);
+}
+.editlink {
+  text-decoration: none;
+  color: orange;
+}
+.main-container:hover {
+  background-color: rgb(226, 243, 243);
+  cursor: default;
+}
+.entryLink {
+  text-decoration: none;
+  color: black;
+}
+th {
+  width: 500px;
+  text-align: left;
+}
+td {
+  width: 300px;
+  text-align: left;
+}
